@@ -1,0 +1,306 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Divine right and irresistibility of kings and supreme magistrates clearly evidenced, not from any private authority, but from the publique confessions of the reformed churches, and the homilies of the Church of England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36175</idno>
+            <idno type="STC">Wing D1732</idno>
+            <idno type="STC">ESTC R31976</idno>
+            <idno type="EEBO-CITATION">12288318</idno>
+            <idno type="OCLC">ocm 12288318</idno>
+            <idno type="VID">58830</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36175)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58830)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1503:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Divine right and irresistibility of kings and supreme magistrates clearly evidenced, not from any private authority, but from the publique confessions of the reformed churches, and the homilies of the Church of England.</title>
+               </titleStmt>
+               <extent>[4], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield ...,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Divine right of kings.</term>
+               <term>Monarchy --  Privileges --  England.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:58830:1" rendition="simple:additions"/>
+            <p>THE DIVINE RIGHT AND IRRESISTIBILITY OF KINGS, AND SVPREME MAGISTRATES: Clearly evidenced, not from any pri<g ref="char:EOLhyphen"/>vate Authority, but from the Publique Confeſſions of the Reformed Churches, and the Homilies of the Church of ENGLAND.</p>
+            <q>
+               <bibl>MATH. 18.17.</bibl>
+               <p>If he neglect to heare the Church, let him be unto thee as an Heathen man, and a Publican.</p>
+            </q>
+            <p>
+               <hi>OXFORD,</hi> Printed by <hi>Leonard Lichfield,</hi> Printer to <hi>the Vniverſity,</hi> 1645.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:58830:2"/>
+            <pb facs="tcp:58830:2"/>
+            <head>To the READER.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have cited the Confeſſions of the Re<g ref="char:EOLhyphen"/>formed Churches as they were Printed at <hi>Cambridge, 1586.</hi>
+            </p>
+            <p>And I have quoted the Homilies, according to their late Impreſſion, <hi>1633.</hi> And from the Confeſſions and Homi<g ref="char:EOLhyphen"/>lies thou mayeſt learne; That God is the Author of Politicall Order; And that himſelfe is the firſt in that Order; And that Kings and Princes are in that Ranke and Order next under him, as his Lievtenants and Deputies, having their Au<g ref="char:EOLhyphen"/>thority and power from him, and ſo to give an Accompt of their Miniſtration to him. And that by reaſon of their ranke and place they muſt not be Reſiſted by us; much leſſe may we wring their Authority from them, or Rebell againſt them, or endea<g ref="char:EOLhyphen"/>vour (upon any pretences) to ſhake off the yoke of Subjection un<g ref="char:EOLhyphen"/>der them. Now Reſiſting and Rebelling are a riſing up againſt, and oppoſing of the Higher Power; and Reſiſting properly, is in respect of that Order which God hath conſtituted in all Govern<g ref="char:EOLhyphen"/>ment: And Rebellion, is againſt the ſpeciall Order and Conſti<g ref="char:EOLhyphen"/>tutions in ſeverall Kingdomes and Common-wealths: That contrary to the Subjection which the Law of God requires, This contrary to the Subjection and Obedience required by the Lawes of Men.</p>
+            <p>
+               <pb facs="tcp:58830:3"/>And where theſe are accompanied with Civill Warre (as amongst us at this day) they produce farre greater miſeries to the People, and miſchiefes farre more fatall to the Common<g ref="char:EOLhyphen"/>wealth, then Tyranny and Oppreſſion; <g ref="char:V">Ʋ</g>nder Tyranny there being ſome Order, not onely the Divine, but the Humane alſo, in respect of matters between Subject and Subject: but Reſiſting and Rebellion and ſuch Warre overthrow all Order: Divine, (and ſo inferre damnation, <hi>Rom. 13.</hi>) Humane, even to Anarchy and Confuſion, which God avert from us.</p>
+            <p>Beſides (ſaith <hi>M<hi rend="sup">r</hi> Calvin</hi> in his Com: upon <hi>Rom. 13. v. 3.</hi>) an evill Prince is the ſcourge of God to puniſh the ſinnes of the People: And that excellent and wholſome Inſtitution of Ma<g ref="char:EOLhyphen"/>giſtracy is never corrupted (by Tyranny) but upon our default: wherefore we muſt impute to our ſelves and to our ſins, the evill that is in it, and evermore Reverence the Ordination it ſelfe. And <hi>(lib. 4. Inſtitut. Cap. 20. Art. 29.)</hi> If we be perſecuted for Godlineſſe, by an impious and Sacrilegious Prince, let us firſt of all remember our ſinnes, which no doubt are corrected by God with ſuch Scourges; This will bridle our impatience with humi<g ref="char:EOLhyphen"/>lity: Then let us entertaine this thought, that 'tis not our part to heale ſuch diſtempers; but our onely remedy is, to implore the help of God, in whoſe hands are the hearts of Kings, and the In<g ref="char:EOLhyphen"/>clinations of Kingdomes.</p>
+            <q>O Conſider this ye that forget God, <bibl>Pſal. 50 22.</bibl>
+            </q>
+            <p>As in this caſe moſt men, both in their writings and procee<g ref="char:EOLhyphen"/>dings, forget him: his firſt Ordinance of Politicall power for Government: and his ſecond Ordination of the power ſometime to Judgement; and especially doe they forget him, who make the People the Author of that power, and maintaine their Right of reaſſuming it at pleaſure, and Preach and Preſſe Reſiſtance of the power, and conſequently of God himſelfe in his Ordinance and Judgements.</p>
+            <q>Conſider what I ſay, &amp;c. <bibl>2. Tim. 2.7.</bibl>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:58830:3"/>
+            <head>THE DIVINE RIGHT AND Irreſiſtibility of KINGS and Supreme MAGISTRATES.</head>
+            <div n="Helvetian" type="confession">
+               <head>The <hi>HELVETIAN</hi> Confeſsion.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Magiſtrate of what ſort ſoever it be,<note place="margin">In Syntag. confeſſion. Genev. An. <hi>1612.</hi> pag. <hi>85.</hi>
+                  </note> is or<g ref="char:EOLhyphen"/>dained of God himſelfe, for the Peace and quietneſſe of Mankind, and ſo that he ought to have the chiefeſt place in the World. (And) God doth work the ſafety of his People by the Magiſtrate, whom as he hath given to be as a Father of the World; ſo all the Subjects are commanded to acknowledge this benefit of God in the Magiſtrate, and honour him as the Miniſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r of God. And if the common ſafety of the Country and Juſtice require it, and the Magiſtrate doe of ne<g ref="char:EOLhyphen"/>ceſſity make Warre, let them lay downe their life and ſpend their blood for the commo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſafety and defence of the Magi<g ref="char:EOLhyphen"/>ſtrate, and that in the name of God willingly, valiantly, and cheerfully, for that he that oppoſeth himſelfe againſt the Ma<g ref="char:EOLhyphen"/>giſtrate doth procure the wrath of God againſt him. We know that though we be free, we ought wholly in a true Faith, holi<g ref="char:EOLhyphen"/>ly to ſubmit our ſelves to the Magiſtrate, both with our body, and with our goods, and endeavours of minde, ſo farre forth as his government is not evidently repugnant to him for whoſe ſake we reverence the Magiſtrate.</p>
+            </div>
+            <div n="Bohemia" type="confession">
+               <head>The Confeſsion of <hi>BOHEMIA.</hi>
+               </head>
+               <p>IT is taught out of the holy Scriptures,<note place="margin">In Syntag. Confeſ. edit. Genev. An. <hi>1612.</hi> pag. <hi>264.</hi> part <hi>2.</hi>
+                  </note> that the Civill Magiſtrate is the Ordinance of God, and appointed by God, who both taketh his originall from God, and by the effectuall power of his preſence, and continuall aid, is main<g ref="char:EOLhyphen"/>tained
+<pb n="2" facs="tcp:58830:4"/>
+to governe the People, in thoſe things which apper<g ref="char:EOLhyphen"/>taine to the life of this body here upon earth, whereof is that of S<hi rend="sup">t</hi> 
+                  <hi>Paul, Rom.</hi> 13.1. <hi>There is no Power &amp;c.</hi> And Magiſtrates muſt know and remember this, that they are Gods Deputies, and in his ſtead, and that God is the Soveraigne Lord and King, even of them all as well as of other men, to whom they muſt give an account at the laſt day, of the degree wherein they were placed, and of their dominion, and of the whole admini<g ref="char:EOLhyphen"/>ſtration of their government, whereof it is expreſly written in the book of <hi>Wiſdome, Cap.</hi> 6.1. The people alſo are taught of their duty, and by the word of God are effectually thereto in<g ref="char:EOLhyphen"/>forced, that all, and every of them in all things, ſo that they be not contrary to God, performe their obedience to the ſuperior power, firſt to the King's Majeſty, then to all other Magiſtrates, and ſuch as are in Authority, in what charge ſoever they be pla<g ref="char:EOLhyphen"/>ced, whether they be of themſelves good men or evill.</p>
+            </div>
+            <div n="French" type="confession">
+               <head>The <hi>FRENCH</hi> Confeſsion.</head>
+               <p>
+                  <note place="margin">In Corpor. Confeſſion. Genevae. An. <hi>1612.</hi> p. <hi>110.</hi> Art. <hi>39.</hi> Con<g ref="char:EOLhyphen"/>feſſ. Gallican.</note>VVE believe that God would have the world to be governed by Lawes, and by Civill Go<g ref="char:EOLhyphen"/>vernment, that there may be certain bridles, whereby the immoderate deſires of the world may be reſtrai<g ref="char:EOLhyphen"/>ned, and that therefore he appointed, Kingdomes, Common<g ref="char:EOLhyphen"/>wealths, and other kind of Principalities, whether they come by Inheritance or otherwiſe. (And) Therefore becauſe of the author of this order, we muſt not only ſuffer them to rule whom he hath ſet over us, but alſo give unto them all honour and reverence, as unto his Ambaſſadours and Miniſters aſſigned of him to execute a Lawfull and Holy Function. We affirme alſo, That we muſt obey the Lawes and Statutes, that Tribute muſt be paid, and we muſt patiently endure the other burthens; to conclude, That we muſt willingly ſuffer the yoke of ſubje<g ref="char:EOLhyphen"/>ction, although the Magiſtrates be infidells, ſo that the ſove<g ref="char:EOLhyphen"/>raigne power of God doe remaine whole or entire, and no<g ref="char:EOLhyphen"/>thing be diminiſhed.</p>
+            </div>
+            <div n="Belgia" type="confession">
+               <pb n="3" facs="tcp:58830:4"/>
+               <head>The Confeſsion of <hi>BELGIA.</hi>
+               </head>
+               <p>VVE believe that the moſt gratious and mighty God, did appoynt Kings, Princes,<note place="margin">Ibid. pag. <hi>183.</hi> Confeſſ. Belg. Artic. <hi>36.</hi>
+                  </note> and Magi<g ref="char:EOLhyphen"/>ſtrates, becauſe of the depravation of man<g ref="char:EOLhyphen"/>kind, and that it is his will, that this World ſhould be gover<g ref="char:EOLhyphen"/>ned by Lawes, and by a certain civill government to puniſh the faults of men, and that all things may be done in good or<g ref="char:EOLhyphen"/>der among men: Therefore he hath armed the Magiſtrate with a ſword, to puniſh the wicked and defend the good.</p>
+            </div>
+            <div n="Auspurge" type="confession">
+               <head>The Confeſsion of <hi>AUSPURGE.</hi>
+               </head>
+               <p>VVE are ſure that ſeeing the Godly muſt obey the Magiſtrates that be over them,<note place="margin">Ibid. pag. <hi>17.</hi> vid. Confeſſi<g ref="char:EOLhyphen"/>on. Auguſt. Art. <hi>16.</hi> part. <hi>2.</hi>
+                  </note> they muſt not wring their authority out of their hands, nor overthrow Governments by Sedition, for as much as <hi>Paul</hi> wiſheth every ſoule to be ſubject to the Magiſtrates. We know alſo that the Church in this life, is ſubject to the Croſſe, as S<hi rend="sup">t</hi> 
+                  <hi>Paul</hi> ſaith, <hi>We muſt be made like to the image of the Sonne of God.</hi>
+               </p>
+            </div>
+            <div n="Saxony" type="confession">
+               <head>The Confeſsion of <hi>SAXONY.</hi>
+               </head>
+               <p>VVE teach that in the whole Doctrine of God delivered by the Apoſtles and Prophets,<note place="margin">Conf. Sax. Art. <hi>23.</hi> In E<g ref="char:EOLhyphen"/>dit. Gen. <hi>1612.</hi> part. <hi>2.</hi> pag. <hi>128.</hi>
+                  </note> the degrees of the civill State are avouched, and that Magiſtrates, Lawes, order in judgement, and the lawfull ſociety of mankind, are not by chance ſprung up among men. And although there be many horrible confuſions which grow from the divell, and madneſſe of men, yet the lawfull Govern<g ref="char:EOLhyphen"/>ment and ſociety of men is ordained of God, and whatſoever order is yet left by the exceeding goodneſſe of God, it is pre<g ref="char:EOLhyphen"/>ſerved for the Churches ſake. (And) Subjects owe to the Ci<g ref="char:EOLhyphen"/>vill Magiſtrate obedience, as <hi>Paul</hi> ſaith, not only becauſe of <hi>Wrath, (i.e.)</hi> for fear of Corporall puniſhment, wherewith the Rebellious are rewarded by the Magiſtrate, but alſo for <hi>Con<g ref="char:EOLhyphen"/>ſcience ſake. (i.e.)</hi> Rebellion is a ſinne that offendeth God; and with-draweth the Conſcience from God. (And again) God
+<pb n="4" facs="tcp:58830:5"/>
+would have all men to be ruled and kept in order by civill go<g ref="char:EOLhyphen"/>vernment, even thoſe that are not regenerate; and in this go<g ref="char:EOLhyphen"/>vernment the Wiſdome, Iuſtice, and goodneſſe of God to<g ref="char:EOLhyphen"/>wards us is moſt clearely to be ſeen,</p>
+               <p n="1">1 Wiſdome, by Order, and the ſocieties of mankind under lawfull government.</p>
+               <p n="2">2 Iuſtice, in that he will have open ſinnes to be puniſhed by the Magiſtrates, and when they that are in authority doe not take puniſhment on offendors, God himſelfe doth miracu<g ref="char:EOLhyphen"/>louſly draw them unto puniſhment, and proportionably doth lay upon grievous ſinnes, grievous puniſhments in this life, <hi>Mat.</hi> 26 52. <hi>Heb.</hi> 13.4.</p>
+               <p n="3">3. Goodneſſe towards mankind, in that he preſerveth the ſocieties of mankind after this order: and for that cauſe doth he maintaine it, that from thence his Church may be gathe<g ref="char:EOLhyphen"/>red, and he will have Common-wealths to be places for the maintenance of his Church.</p>
+            </div>
+            <div n="Scotland" type="confession">
+               <head>The confeſsion of <hi>SCOTLAND.</hi>
+               </head>
+               <p>
+                  <note place="margin">Confeſ. Scot. Artic. <hi>24.</hi> in Corp. Conf. Gen. An. <hi>1612.</hi> p. <hi>156.</hi> part. <hi>1.</hi>
+                  </note>VVE confeſſe and acknowledge Empires, King<g ref="char:EOLhyphen"/>domes, Dominions, and Cities to be diſtin<g ref="char:EOLhyphen"/>cted and ordeined by God: the Powers and Authorities in the ſame, be it of Emperours in their Em<g ref="char:EOLhyphen"/>pires, Kings in their Realmes, Dukes and Princes in their Dominions, and of other Magiſtrates in their C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ties to be Gods holy ordinance, ordeined for manifeſtation of his owne glory, and for the ſingular profit and Commodity of man<g ref="char:EOLhyphen"/>kind: ſo that whoſoever goeth about to take away, or con<g ref="char:EOLhyphen"/>found the whole ſtate of Civill policies now long eſtabliſhed, we affirme the ſame men, not onely to be Enemies to man<g ref="char:EOLhyphen"/>kind, but alſo wickedly fight againſt Gods expreſſed will.</p>
+            </div>
+            <div type="summary_of_confessions">
+               <head>The ſumme of theſe confeſsions.</head>
+               <p>THe ſumme is; All power is originally in God him<g ref="char:EOLhyphen"/>ſelfe, who is <hi>Solus potens,</hi>
+                  <note n="a" place="margin">1. Tim. 6.15.</note> the onely King, and independant potentate. 2. He hath (for the good of mankind) communicated ſome of his power immediately to
+<pb n="5" facs="tcp:58830:5"/>
+Kings, and by them<note n="b" place="margin">1. Pet. 2.13.</note> to inferiour Magiſtrates. So that a King is Gods immediate Vicegerent and Deputy, and therefore His Authority, and Perſon are both Sacred, and ſhould be in<g ref="char:EOLhyphen"/>violable. He is, <hi>Miniſter</hi>
+                  <note n="c" place="margin">Rom. 13.4.</note> 
+                  <hi>Dei,</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>nctus Domini,</hi> not the Peoples, but the Lords Deputy, the Lords Annointed; and therefore <hi>none can ſtretch out his hand against him</hi>
+                  <note n="d" place="margin">1. Sam. 26: 9.</note> (though he be a <hi>Saul,</hi> a Tyrant) <hi>and be guiltleſſe.</hi> And if the Kirke of <hi>Scotland</hi> may be judge, they that goe about to take away, or confound Monarchy, — <hi>Thoſe men are not onely Enemies to mankind, but alſo wickedly fight againſt Gods expreſſe will.</hi> I would to God the practice of that Nation, were any way ſui<g ref="char:EOLhyphen"/>table to the piety, and truth of this profeſſion.</p>
+               <p>And becauſe of the Author of this order, we muſt both ſuffer thoſe whom he hath ſet over us for to rule, and alſo ho<g ref="char:EOLhyphen"/>nour them in their place &amp; office, as his Embaſſadours and Mi<g ref="char:EOLhyphen"/>niſters, of which their Miniſtration they muſt give an account at the laſt day. And in all things that be not contrary to God we muſt performe obedience to the Superiour power; Firſt to the Kings Majeſty, then to all other Magiſtrates, whether they be of themſelves good men or evill: yea we muſt patiently ſuffer the yoke of Subjection, though they be Infidells.</p>
+               <p>And if the common ſafety of the Country and Iuſtice re<g ref="char:EOLhyphen"/>quire it, and the Magiſtrate doe of neceſſity make Warre, they muſt lay downe their lives, and ſpend their bloud, for the common ſafety and defence of the Magiſtrate, and that in the name of God willingly, valiantly and chearfully; for that he that oppoſeth himſelfe againſt the Magiſtrate, doth procure the wrath of God againſt him.</p>
+               <p>Laſtly, we muſt not wring their Authority out of their handes, nor overthrow Government by Sedition: and they that goe about to take away Civill policies eſtabliſhed, are Enemies to mankind; and they that Reſiſt and Rebell againſt their Prince, reſiſt God himſelfe, whoſe Deputy and Embaſ<g ref="char:EOLhyphen"/>ſadour and Miniſter he is; and they who teach ſuch Doctrine, withdraw the Conſciences of men from God.</p>
+               <p>And Reader, ſee the Harmony between the Confeſſions of the Reformed Churches, and the Doctrine of the Church of <hi>England<g ref="char:punc">▪</g>
+                  </hi> delivered in the Books of Homilies, concerning
+<pb n="6" facs="tcp:58830:6"/>
+Civill Obedience and Subjection.</p>
+               <p>The Authority of which Books is declared and confirmed, by the 35 Article of our Religion.</p>
+               <p>
+                  <hi>The ſecond Book of Homilies doth containe a godly and whol<g ref="char:EOLhyphen"/>ſome Doctrine, and neceſſary for theſe times, as doth the former Book of Homilies, which were ſet forth in the time of King</hi> Ed<g ref="char:EOLhyphen"/>ward <hi>the ſixt, and therefore we judge them to be read in Churches by the Miniſter diligently and diſtinctly, that they may be under<g ref="char:EOLhyphen"/>ſtood of the People.</hi>
+               </p>
+               <p>And now I ſhall preſent unto thee, the ſumme of the Do<g ref="char:EOLhyphen"/>ctrine of thoſe Books concerning the Premiſes.</p>
+               <div type="part">
+                  <head>GOD.</head>
+                  <p>God is the univerſall Monarch of the world, <hi>lib.</hi> 2. <hi>p.</hi> 278. <hi>l.</hi> 7.</p>
+               </div>
+               <div type="part">
+                  <head>ORDER.</head>
+                  <p>God hath appoynted all things in a moſt excellent Order, <hi>lib.</hi> 1. <hi>pag.</hi> 69. <hi>lin.</hi> 1.</p>
+                  <p>Where there is no order, nor Magiſtrate, there is Confuſion, <hi>lin.</hi> 31.</p>
+               </div>
+               <div type="part">
+                  <head>KINGS.</head>
+                  <p>Kings are from God, 1. 70. 81. 2. 276. 39. 45. 278. 1. 10. 23. Kings have their power from God onely, 1. 71. 31.</p>
+                  <p>They are the Chiefe and Supreme Rulers next under God, 1. 76. 15.</p>
+                  <p>They onely have the uſe of the Sword, 1. 74. 19.</p>
+               </div>
+               <div type="part">
+                  <head>Evill KINGS.</head>
+                  <p>Evill Kings are from God, 2. 276. 45.</p>
+                  <p>God placeth them over a Country for the ſinnes thereof, 2. 278. 31. They are reſerved for Gods puniſhment, and judge<g ref="char:EOLhyphen"/>ment, 1. 74. 10.</p>
+               </div>
+               <div type="part">
+                  <head>OBEDIENCE.</head>
+                  <p>We learne by the word of God to yeeld to our King, that is due to our King; that is, honour, obedience, payments of due taxes, cuſtomes, tributes, ſubſidies, feare and love, 1. 77. 7.</p>
+                  <p>This is gods ordinance, gods Commandement, and gods holy will, that all the whole body of every Realme, and all the members and parts thereof ſhould be ſubject to their Head their King, 1. 77. 2.</p>
+                  <p>
+                     <pb n="7" facs="tcp:58830:6"/>They that live in true obedience to god and the King, pleaſe god, and have peace of Conſcience, and having god on their ſide, let them not feare what man can doe againſt them, <hi>ibid.</hi> 37.</p>
+                  <p>We muſt obey ſharp and rigorous Princes. 2. 277. 46. and pa<g ref="char:EOLhyphen"/>tiently ſuffer under them 289. 32. 42. and pray for their pro<g ref="char:EOLhyphen"/>ſperity. 2. 280. 46. 288. 3. 6.</p>
+                  <p>If the King command any thing contrary to Gods Word, we muſt rather obey God then man: yet in that caſe, we may not in any wiſe withſtand violently, or make any inſurrection, ſedition, or Tumults by force of Armes, or otherwiſe againſt the Lords Annoynted, or any of his Officers. 1. 74. 44.</p>
+                  <p>If God give a heathen tyrant to reigne over us, we muſt obey him and pray for him. 2. 282. 13.</p>
+                  <p>Where is obedience there is the figure of heaven. 2. 296. 46. Heaven is the place of good Subjects, <hi>ibid.</hi> 44.</p>
+               </div>
+               <div type="part">
+                  <head>J<g ref="char:V">Ʋ</g>DGING.</head>
+                  <p>We muſt not judge of the King his government or Councel<g ref="char:EOLhyphen"/>lours. Yea it is a perilous thing to commit unto Subjects the judgement, which Prince is wiſe and Godly, and his government good, and which is otherwiſe; as though the foot muſt judge of the head, an enterpriſe very hainous, and muſt needs breed Re<g ref="char:EOLhyphen"/>bellion. 2. 279. 23.</p>
+               </div>
+               <div type="part">
+                  <head>M<g ref="char:V">Ʋ</g>RM<g ref="char:V">Ʋ</g>RING.</head>
+                  <p>We may not murmure againſt the King, or ſpeak evill of him. 2. 299. 12. 31. 34. 300. 3.</p>
+               </div>
+               <div type="part">
+                  <head>RESISTING.</head>
+                  <p>We may not in any caſe reſiſt or ſtand againſt the ſuperior powers, though they be wicked, becauſe they have their power from God. 1. 72. 12. 29. 30. 2. 280. 5. 33. 285. 6. 28. Though we have great numbers of men (2. 286. 40.) yet we muſt not at<g ref="char:EOLhyphen"/>tempt any thing againſt the King; though hated of god, and gods enemy, &amp; ſo likely to be pernitious to the Common-wealth. 287. 2. 16. though he doth not conſider our faithfull ſervice, or ſafe<g ref="char:EOLhyphen"/>guard of our Poſterity. 22. and laſtly though he be our known mortall deadly enemy, and that he ſeeketh our lives. 26.</p>
+                  <p>
+                     <pb n="8" facs="tcp:58830:7"/>They that reſiſt, reſiſt not man but God. 1. 71. 35.</p>
+               </div>
+               <div type="part">
+                  <head>REBELLION.</head>
+                  <p>The ſink of all ſinne, both of the firſt &amp; ſecond table. 2. 292. 29.</p>
+                  <p>
+                     <hi>Lucifer</hi> the firſt author of Rebellion, 2. 276. 7.</p>
+                  <p>The two Principall cauſes of Rebellion are,
+<list>
+                        <item>1 Ambition, and reſtleſſe deſire in ſome men to be of higher Eſtate then God hath given them.</item>
+                        <item>2. Ignorance in the people, and lack of knowledge of Gods bleſſed will, declared in his holy word concerning their obedi<g ref="char:EOLhyphen"/>ence. 2. 307. 16. 28. 313. 14.</item>
+                     </list>
+                  </p>
+                  <p>Rebells no true Chriſtians. 2. 289. 45.</p>
+                  <p>Rebells a wicked example againſt all Chriſtendome, and whole mankind, &amp;c. 2. 282. 24.</p>
+                  <p>Rebells pretences vaine, <hi>viz.</hi> redreſſe of the Common-wealth, and reformation of Religion. 2. 301. 19. 302. 2. 22. 25. 29.</p>
+                  <p>Rebellion no good means of Reformation. 2. 279. 34.</p>
+                  <p>Miſeries following Rebellion; <hi>viz.</hi> Peſtilence, Famine, the calamities of Warre extraordinary. 2. 294. 29.</p>
+                  <p>Gods judgement on Rebells. 2. 300. 9.</p>
+                  <p>Rebells never proſpered long. 2. 300. 45.</p>
+                  <p>Hell the place of Rebells. 2. 296. 45.</p>
+                  <p>Vnleſſe we doe what we are able to ſtay Rebellion, we are moſt wicked, &amp;c. 2. 282. 36.</p>
+               </div>
+               <div type="part">
+                  <head>The CLERGY.</head>
+                  <p>
+                     <hi>The Clergy ought both themſelves eſpecially to be obedient to their Prince, and alſo to exhort others to the ſame. 2. 308. 27.</hi>
+                  </p>
+                  <p>ALmighty God, whoſe Kingdome is everlaſting and power infi<g ref="char:EOLhyphen"/>nite, have mercy upon the whole Congregation, and ſo rule the heart of thy choſen ſervant <hi>Charles</hi> our King and Governour, that He knowing whoſe Miniſter He is, may above all things ſeek thy honour and glory, and that we His Subiects, duly conſidering whoſe authority He hath, may faithfully ſerve, honour, and hum<g ref="char:EOLhyphen"/>bly obey him, in thee, and for thee, according to thy bleſſed Word and Ordinance, through Jeſus Chriſt our Lord. <hi>AMEN.</hi>
+                  </p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:58830:7" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
